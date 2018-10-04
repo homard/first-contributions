@@ -5,11 +5,11 @@
 
 C'est toujours compliqué la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas du tout confortable, spécialement quand vous collaborez. Mais le monde du logiciel libre est fait de collaboration et de travail de groupe. Aussi, nous voulons simplifier l'apprentissage des nouveaux contributeurs au logiciel libre en vous enseignant à contribuer pour la première fois.  
 
-Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
+Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans peur de faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
 <img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
 
-*Lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japonais](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [Arabe](translations/README.ar.md), [Ukrainien](translations/README.ua.md), [Portugais](translations/README.pt_br.md) et [Italien](translations/README.it.md).*
+*Lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japonais](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [Allemand](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [Arabe](translations/README.ar.md), [Ukrainien](translations/README.ua.md), [Portugais](translations/README.pt_br.md) et [Italien](translations/README.it.md).*
 
 Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -94,7 +94,7 @@ La branche master de votre embranchement ne subira pas de modification à cet in
 
 ## Gardez votre embranchement synchronisé avec ce répertoire
 
- D'abord, basculez sur la branche master
+ D'abord, basculez sur la branche master : 
  ```
  git checkout master
  ```
